@@ -1,10 +1,9 @@
-# teacher1
+
 #include<stdio.h>
 #include<conio.h>
-void main()
+int main()
 {
 int n,x,p,i,j=1;
-clrscr();
 printf("Enter the n value:");
 scanf("%d",&n);
 printf("Enter the pair:");
